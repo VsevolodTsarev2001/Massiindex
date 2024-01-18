@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Massiindex", "Massiindex.pyproj", "{EAF994B3-6E53-4914-BF2A-2A7AE33D3116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF994B3-6E53-4914-BF2A-2A7AE33D3116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF994B3-6E53-4914-BF2A-2A7AE33D3116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6EDF3D2-47D1-4008-A3DD-E18B38794139}
+	EndGlobalSection
+EndGlobal
